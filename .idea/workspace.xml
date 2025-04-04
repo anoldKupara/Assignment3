@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="220becaa-27a0-4742-84a1-299a546ebd88" name="Changes" comment="answered question 7">
-      <change afterPath="$PROJECT_DIR$/Question8.py" afterDir="false" />
+    <list default="true" id="220becaa-27a0-4742-84a1-299a546ebd88" name="Changes" comment="completed question 9">
+      <change afterPath="$PROJECT_DIR$/Question10.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +53,8 @@
     &quot;Python.Question2.executor&quot;: &quot;Run&quot;,
     &quot;Python.Question4.executor&quot;: &quot;Run&quot;,
     &quot;Python.Question6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Question8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Question9.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Anold Kupara/PycharmProjects/MBIT 2025/Advanced AI and Expert Systems&quot;,
@@ -80,7 +82,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743787715703</updated>
-      <workItem from="1743787716884" duration="4345000" />
+      <workItem from="1743787716884" duration="4846000" />
     </task>
     <task id="LOCAL-00001" summary="added question 1">
       <option name="closed" value="true" />
@@ -146,7 +148,23 @@
       <option name="project" value="LOCAL" />
       <updated>1743790146882</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="answered question 8">
+      <option name="closed" value="true" />
+      <created>1743796324979</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1743796324979</updated>
+    </task>
+    <task id="LOCAL-00010" summary="completed question 9">
+      <option name="closed" value="true" />
+      <created>1743796501131</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1743796501131</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,12 +178,16 @@
     <MESSAGE value="completed question 5" />
     <MESSAGE value="answered question 6" />
     <MESSAGE value="answered question 7" />
-    <option name="LAST_COMMIT_MESSAGE" value="answered question 7" />
+    <MESSAGE value="answered question 8" />
+    <MESSAGE value="completed question 9" />
+    <option name="LAST_COMMIT_MESSAGE" value="completed question 9" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Assignment3$Question2.coverage" NAME="Question2 Coverage Results" MODIFIED="1743788617455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Assignment3$Question8.coverage" NAME="Question8 Coverage Results" MODIFIED="1743796309554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Assignment3$Question1.coverage" NAME="Question1 Coverage Results" MODIFIED="1743787839046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Assignment3$Question6.coverage" NAME="Question6 Coverage Results" MODIFIED="1743789788251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Assignment3$Question9.coverage" NAME="Question9 Coverage Results" MODIFIED="1743796471545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Assignment3$Question4.coverage" NAME="Question4 Coverage Results" MODIFIED="1743788927493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
