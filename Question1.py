@@ -11,6 +11,5 @@ def classify_number():
         except ValueError:
             print("That's not a valid integer. Please try again.")
 
-# Example usage:
 result = classify_number()
 print(f"The number is: {result}")
