@@ -1,4 +1,4 @@
-names = ["Anold", "Kudakwashe", "Tinashe", "Rumbidzai", "Munyaradzi","Emildah", "Ambrose"]
+names = ["Anold", "Christine", "Eulita","Tinashe", "Rumbidzai", "Munyaradzi","Emildah", "Ambrose"]
 
 # Writing names to the file
 with open("names.txt", "w") as file:
